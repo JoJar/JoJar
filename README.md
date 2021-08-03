@@ -7,5 +7,4 @@
 
 **Upcoming projects:**
 + Transfer of automated assessment tool project from GitLab to GitHub
-+ Transfer of blog website from GitLab to GitHub
-+ Rework of an old meal planner website built using vanilla JavaScript, HTML and CSS.
++ Rework of an old meal planner website built using vanilla JavaScript, HTML and CSS. The rework will use React.
