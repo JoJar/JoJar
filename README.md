@@ -1,6 +1,5 @@
 👋 Hi, I’m @JoJar
 🌱 I’m currently learning: 
-- The React framework.
 - After being taught the benefits of NoSQL in my MSc I am looking towards learning MongoDB.
 - I am also developing my knowledge of data analysis using Python, and specifically NLP.
 
