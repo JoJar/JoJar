@@ -1,9 +1,11 @@
-👋 Hi, I’m @JoJar
-🌱 I’m currently learning: 
-- After being taught the benefits of NoSQL in my MSc I am looking towards learning MongoDB.
-- I am also developing my knowledge of data analysis using Python, and specifically NLP.
+Hi, I’m Josh.
 
-📫 You can reach me via email at [joshuajarvis10@hotmail.co.uk](mailto:joshuajarvis10@hotmail.co.uk) or message me on [LinkedIn:](https://www.linkedin.com/in/josh-jarvis-3413a3190/)
+You can find a bit about me and my portfolio on my website [here:](http://www.josh-jarvis.com/).
+
+I'm spending most evenings playing around with React whilst conducting research for my MSc Dissertation.
+For my dissertation I am also developing my knowledge of data analysis using Python using various data analysis libraries.
+
+You can reach me via email at [joshuajarvis10@hotmail.co.uk](mailto:joshuajarvis10@hotmail.co.uk) or message me on [LinkedIn:](https://www.linkedin.com/in/josh-jarvis-3413a3190/)
 
 **Upcoming projects:**
 + Transfer of automated assessment tool project from GitLab to GitHub
