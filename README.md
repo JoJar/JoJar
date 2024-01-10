@@ -1,7 +1,5 @@
 Hi, I’m Josh.
 
-You can find a bit about me and my portfolio on my website [here](http://www.josh-jarvis.com/).
-
 I'm spending most evenings playing around with React whilst conducting research for my MSc Dissertation.
 For my dissertation I am also developing my knowledge of data analysis using Python using various data analysis libraries.
 
